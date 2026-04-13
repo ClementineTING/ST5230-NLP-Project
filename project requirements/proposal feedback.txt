@@ -1,0 +1,1 @@
+The main idea is clear and workable, and the final report would be stronger if you add at least one additional LLM so the result is not tied to a single model. It would also help to validate more clearly that the paraphrases preserve the original meaning and sentiment, and to distinguish paraphrase sensitivity from cases that are simply close to the classification boundary.
